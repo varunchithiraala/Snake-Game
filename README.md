@@ -15,6 +15,8 @@ This is a simple implementation of the classic Snake game using Pygame. The game
 - **Game Over**: The game ends when the snake hits itself or the screen boundaries.
 - **Restart Option**: After game over, you can choose to play again or exit.
 
+![Snake Game in Action](media/snake_game.gif)
+
 ## Requirements
 
 - Python 3.12.4
@@ -75,3 +77,11 @@ Feel free to fork the repository and submit pull requests with improvements or b
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact:
+
+**Name**: Ch. Varun Kumar  
+**Email**: varuncvk13@gmail.com  
+**GitHub**: https://github.com/varunchithiraala
